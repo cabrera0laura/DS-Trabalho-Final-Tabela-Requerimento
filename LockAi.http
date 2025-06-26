@@ -1,0 +1,6 @@
+@LockAi_HostAddress = http://localhost:5063
+
+GET {{LockAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
