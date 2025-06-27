@@ -13,6 +13,7 @@ GET http://lauracabrera20.somee.com/LockAi/Requerimento/GetAll
 ### POST (Adicionar)
 
 POST http://lauracabrera20.somee.com/LockAi/Requerimento
+```json
 {
   "momento": "testando",
   "tipoRequerimento": "testando",
@@ -22,6 +23,7 @@ POST http://lauracabrera20.somee.com/LockAi/Requerimento
   "dataAtualizacao": "01/06/2025",
   "idUsuarioAtualizacao": "007"
 }
+```
 
 ### PUT (Atualizar)
 
