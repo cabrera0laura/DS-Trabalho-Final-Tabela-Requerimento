@@ -27,6 +27,7 @@ POST http://lauracabrera20.somee.com/LockAi/Requerimento
 
 PUT http://lauracabrera20.somee.com/LockAi/Requerimento
 
+```json
 {
   "id": 6,
   "momento": "testando Mudança",
@@ -37,7 +38,7 @@ PUT http://lauracabrera20.somee.com/LockAi/Requerimento
   "dataAtualizacao": "01/06/2025",
   "idUsuarioAtualizacao": "007"
 }
-
+```
 ### DELET (Deletar)
 
 DELETE - http://lauracabrera20.somee.com/LockAi/Requerimento/6
