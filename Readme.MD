@@ -2,7 +2,7 @@
 
 **Nome:** Laura Beltran Cabrera
 
-## Link da API:
+### Link da API:
 http://lauracabrera20.somee.com/LockAi/Requerimento/GetAll
 
 ## Endpoints da API:
@@ -24,7 +24,6 @@ POST http://lauracabrera20.somee.com/LockAi/Requerimento
   "idUsuarioAtualizacao": "007"
 }
 ```
-
 ### PUT (Atualizar)
 
 PUT http://lauracabrera20.somee.com/LockAi/Requerimento
